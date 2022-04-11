@@ -1,3 +1,3 @@
 # CRUD-with-TypeORM
 
-In this repository, i'll create a CRUD using typeorm and typescript.
+In this repository, i'll create a CRUD using typeorm, postgresdb and typescript.
